@@ -1,10 +1,4 @@
-Olá, eu sou o Emerson Camargo!
 
-🎓 Estudante de Desenvolvimento de Sistemas na ETEC  
-💻 Foco em Front-End com *HTML, CSS e JavaScript*  
-📊 Aprendizado contínuo em *Java, Python, SQL e MAQL*  
-🚀 Apaixonado por tecnologia e desenvolvimento de soluções criativas  
-📍 Bauru - SP, Brasil  
 
 ---
 
