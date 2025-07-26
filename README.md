@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Emerson Camargo!
+[# 👋 Olá, eu sou o Emerson Camargo!
 
 🎓 Estudante de Desenvolvimento de Sistemas na ETEC  
 💻 Foco em Front-End com HTML, CSS e JavaScript  
@@ -46,4 +46,4 @@
 
 ---
 
-> “Sempre buscando aprender algo novo. Cada linha de código é uma conquista!”
+> “Sempre buscando aprender algo novo. Cada linha de código é uma conquista!”](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
