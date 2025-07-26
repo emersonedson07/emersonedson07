@@ -1,8 +1,4 @@
-
-
----
-
- <h1 align="center">👋 Olá, eu sou o Emerson Camargo!</h1>
+<h1 align="center">👋 Olá, eu sou o Emerson Camargo!</h1>
 
 <p align="center">
   Estudante de Desenvolvimento de Sistemas na ETEC<br>
@@ -36,6 +32,8 @@ Acesse meu portfólio online em:
 ### 📌 Projetos em Destaque
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
+| [Museu Digital](https://emersonedson07.github.io/museu-digital/) | Exposição interativa sobre a evolução dos videogames | HTML, CSS, JS |
+| [Pokédex Interativa](https://emersonedson07.github.io/pokedex/) | Interface web com filtros e consumo da PokéAPI em português | HTML, CSS, JS |
 | [Portfólio Pessoal](https://github.com/emersonedson07/emersonedson07.github.io) | Meu site pessoal hospedado no GitHub Pages | HTML, CSS |
 
 ---
@@ -50,4 +48,5 @@ Acesse meu portfólio online em:
 
 ### 📬 Contato
 📧 emerson.edson07@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/emerson-edson-camargo-88b2aa103/)  
 📍 Bauru - SP
