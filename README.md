@@ -19,16 +19,16 @@
 
 <p align="center">
 Desenvolvedor Front-End com formação técnica em Desenvolvimento de Sistemas pela ETEC. 
-</p>>
+</p>
 <p align="center">
 Experiência na criação de interfaces modernas, responsivas e funcionais, utilizando tecnologias web e boas práticas de desenvolvimento.
- </p>>
+ </p>
 <p align="center">
 Também possuo conhecimentos em back-end e banco de dados, permitindo uma visão completa do desenvolvimento de sistemas.
- </p>>
+ </p>
 <p align="center">
 📍 Bauru – SP
-</p>>
+</p>
 
 ---
 
@@ -101,4 +101,4 @@ Sistema imobiliário com PHP e MySQL, com páginas dinâmicas e estrutura comple
 
 <p align="center">
   🚀 Em constante evolução na área de tecnologia
-</p>>
+</p>
