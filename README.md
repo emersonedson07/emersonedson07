@@ -17,13 +17,14 @@
 
 ## 👨‍💻 Sobre
 
+<p align="center">
 Desenvolvedor Front-End com formação técnica em Desenvolvimento de Sistemas pela ETEC.
 
 Experiência na criação de interfaces modernas, responsivas e funcionais, utilizando tecnologias web e boas práticas de desenvolvimento.
 
 Também possuo conhecimentos em back-end e banco de dados, permitindo uma visão completa do desenvolvimento de sistemas.
 
-📍 Bauru – SP  
+📍 Bauru – SP </p>>
 
 ---
 
